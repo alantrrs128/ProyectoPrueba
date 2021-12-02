@@ -3,3 +3,19 @@ body
     text-align: center;
     background-color: darkolivegreen;
 }
+
+#foot
+{
+    background-color: #000;
+    height: 100px;
+    width: 100%;
+    padding: 0px;
+}
+
+#foot img
+{
+    float: left;
+    padding: 20px;
+    width: 100px;
+    height: 50px;
+}
